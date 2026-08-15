@@ -1,0 +1,712 @@
+Build a premium, realistic, frontend-only e-commerce website for a fictional Indian pet-care brand called **PAWLI**.
+
+## Goal
+
+Create a polished D2C pet-products storefront that looks like a real operating e-commerce brand and can be used as a professional web-development portfolio project.
+
+This is **frontend only**.
+
+Do not build:
+
+* Backend
+* Database
+* Authentication
+* Admin dashboard
+* Real payment processing
+* Real order processing
+* Real customer accounts
+
+Use realistic mock data and local state for all interactions.
+
+---
+
+# BRAND
+
+**PAWLI**
+
+Tagline:
+
+**Better days for better companions.**
+
+Category:
+
+Premium pet essentials for dogs and cats.
+
+Products include:
+
+* Pet food accessories
+* Beds
+* Toys
+* Grooming products
+* Walking accessories
+* Bowls
+* Treat accessories
+* Travel products
+
+Target audience:
+
+Urban Indian pet parents who care about quality, comfort and design.
+
+Position the brand as:
+
+**Modern pet care for the way you live.**
+
+Do not make it look like a cheap pet-supply marketplace.
+
+---
+
+# VISUAL DIRECTION
+
+Create a warm, premium and playful visual identity.
+
+Use:
+
+* Warm cream/off-white background
+* Charcoal typography
+* Soft terracotta or muted orange accent
+* Small amounts of sage/olive as a secondary accent
+* High-quality dog and cat photography
+* Lifestyle photography inside modern homes
+* Large editorial images
+* Clean modern typography
+* Generous whitespace
+* Soft rounded corners
+* Subtle shadows
+* Smooth micro-interactions
+* Minimal animations
+
+The website should feel:
+
+**Warm + premium + trustworthy + playful**
+
+Avoid:
+
+* Cartoon-heavy design
+* Excessive paw-print graphics
+* Neon colors
+* Cheap marketplace appearance
+* Excessive gradients
+* Excessive rounded cards
+* Excessive animations
+* Generic AI-looking layouts
+
+---
+
+# HOMEPAGE
+
+## Announcement Bar
+
+"Free shipping across India on orders above ₹999"
+
+---
+
+## NAVIGATION
+
+Logo:
+
+**PAWLI**
+
+Navigation:
+
+* Shop
+* Dogs
+* Cats
+* New Arrivals
+* Best Sellers
+* Our Story
+
+Right side:
+
+* Search
+* Wishlist
+* Cart
+
+Make the header clean and premium.
+
+---
+
+# HERO SECTION
+
+Use a large lifestyle image of a happy dog in a modern home with a PAWLI product naturally visible.
+
+Headline:
+
+**Everything they need. Everything they love.**
+
+Supporting text:
+
+"Thoughtfully designed essentials for happier pets and easier everyday life."
+
+Primary CTA:
+
+**Shop Best Sellers**
+
+Secondary CTA:
+
+**Shop for Dogs**
+
+Make this section visually powerful.
+
+---
+
+# CATEGORY SECTION
+
+Headline:
+
+**Made for every kind of companion.**
+
+Create four visual categories:
+
+### Dogs
+
+Walks, playtime & everyday essentials.
+
+### Cats
+
+Comfort, enrichment & everyday care.
+
+### Grooming
+
+Keep them feeling their best.
+
+### Travel
+
+Adventure-ready essentials.
+
+Use large lifestyle/product images.
+
+---
+
+# BEST SELLERS
+
+Display 6 products.
+
+Create realistic products:
+
+### PAWLI Cloud Bed
+
+₹2,499
+
+### Everyday Walk Harness
+
+₹1,299
+
+### Slow Feeder Bowl
+
+₹899
+
+### Interactive Treat Toy
+
+₹699
+
+### Gentle Grooming Brush
+
+₹599
+
+### Travel Water Bottle
+
+₹799
+
+Each product card should include:
+
+* Product image
+* Product name
+* Short descriptor
+* Price
+* Compare-at price where appropriate
+* Discount badge
+* Star rating
+* Review count
+* Wishlist icon
+* Quick Add button
+
+---
+
+# PET PARENT PROBLEM SECTION
+
+Create a visually strong section:
+
+**Designed around real pet-parent life.**
+
+Three benefits:
+
+### Comfort
+
+Products designed around how pets actually rest, play and move.
+
+### Convenience
+
+Simple essentials that make everyday routines easier.
+
+### Quality
+
+Thoughtfully selected materials and practical designs.
+
+Use lifestyle imagery.
+
+---
+
+# FEATURED PRODUCT
+
+Create a large product spotlight:
+
+**PAWLI Cloud Bed**
+
+₹2,499
+
+Headline:
+
+**Their favourite place might become yours too.**
+
+Include:
+
+* Large product image
+* Product rating
+* Price
+* Available sizes
+* Color options
+* Add to Cart
+* Buy Now
+
+Use a premium editorial layout.
+
+---
+
+# PET QUIZ
+
+Create an interactive frontend section:
+
+**Help us find their perfect pick.**
+
+Question 1:
+
+"What kind of companion are you shopping for?"
+
+Options:
+
+* Dog
+* Cat
+
+Question 2:
+
+"What are you looking for?"
+
+Options:
+
+* Walk
+* Play
+* Sleep
+* Groom
+* Travel
+
+Based on selections, recommend relevant products.
+
+Use local frontend state.
+
+CTA:
+
+**Show My Picks**
+
+---
+
+# LIFESTYLE SECTION
+
+Create a large editorial image section:
+
+Headline:
+
+**Life is better with them in it.**
+
+Supporting text:
+
+"From morning walks to lazy afternoons, PAWLI is designed for all the little moments you share."
+
+CTA:
+
+**Explore PAWLI**
+
+---
+
+# TRUST SECTION
+
+Create four minimal benefits:
+
+**Easy Returns**
+
+**Fast India-Wide Delivery**
+
+**Secure Checkout**
+
+**Pet-Parent Approved**
+
+Keep this visually subtle.
+
+---
+
+# REVIEWS
+
+Create a premium customer review section.
+
+Include:
+
+* Star ratings
+* Customer name
+* Pet name
+* Product purchased
+* Short review
+
+Example:
+
+**Ananya & Bruno**
+
+"Bruno usually destroys toys in days. This one has actually survived."
+
+Clearly treat these as demo reviews rather than verified real customer testimonials.
+
+---
+
+# SHOP BY PET
+
+Create two large cards:
+
+**For Dogs**
+
+"Walk. Play. Repeat."
+
+CTA:
+
+Shop Dogs
+
+**For Cats**
+
+"Comfort. Curiosity. Chaos."
+
+CTA:
+
+Shop Cats
+
+---
+
+# GIFT SECTION
+
+Create a promotional banner:
+
+**Something they'll actually love.**
+
+Supporting text:
+
+"Thoughtful essentials for birthdays, new pets and every excuse to spoil them."
+
+CTA:
+
+**Shop Gifts**
+
+---
+
+# COLLECTION PAGE
+
+Create a clean product browsing experience.
+
+Filters:
+
+* Pet
+* Category
+* Price
+* Rating
+
+Sorting:
+
+* Featured
+* Best Selling
+* Price Low to High
+* Price High to Low
+* New Arrivals
+
+Product grid:
+
+2 columns on mobile
+3–4 columns on desktop
+
+Include Quick Add and Wishlist.
+
+---
+
+# PRODUCT PAGE
+
+Create a highly polished product detail page.
+
+Example:
+
+**PAWLI Everyday Walk Harness**
+
+₹1,299
+
+★★★★☆ 4.8
+186 reviews
+
+Include:
+
+* Large image gallery
+* Product title
+* Rating
+* Price
+* Compare-at price
+* Discount
+* Product description
+* Size selector
+* Color selector
+* Quantity
+* Add to Cart
+* Buy Now
+* Wishlist
+* Delivery/pincode checker UI
+* Shipping information
+
+Add accordions:
+
+**Product Details**
+
+**Materials**
+
+**Sizing Guide**
+
+**Care Instructions**
+
+**Shipping & Returns**
+
+Add:
+
+**You may also like**
+
+with complementary products.
+
+---
+
+# CART
+
+Create a functional frontend cart.
+
+Users can:
+
+* Add products
+* Remove products
+* Change quantities
+* See subtotal
+* See shipping
+* See total
+* Apply demo coupon
+* Continue shopping
+* Proceed to checkout
+
+Persist cart using localStorage.
+
+Add:
+
+**Complete their setup**
+
+with complementary product recommendations.
+
+---
+
+# CHECKOUT
+
+Create a realistic frontend-only checkout experience.
+
+## Contact
+
+Email
+Phone
+
+## Delivery
+
+Full Name
+Address
+City
+State
+PIN Code
+
+## Delivery Method
+
+Standard Delivery — Free
+
+Express Delivery — ₹99
+
+## Payment
+
+Create a polished mock payment interface with:
+
+* UPI
+* Credit/Debit Card
+* Net Banking
+* Wallet
+
+The payment interface should visually resemble a real modern Indian checkout.
+
+Add:
+
+**Pay ₹X,XXX**
+
+button.
+
+When clicked, simulate a successful payment.
+
+Show:
+
+**Order confirmed**
+
+"Your PAWLI order is on its way."
+
+Display:
+
+* Demo order number
+* Order amount
+* Estimated delivery
+* Continue Shopping
+
+IMPORTANT:
+
+This is a **demo payment flow only**. Never process or store real payment/card information.
+
+---
+
+# SEARCH
+
+Implement frontend product search.
+
+Users should be able to search:
+
+* Product names
+* Categories
+* Pet types
+
+Show a clean search overlay with matching products.
+
+---
+
+# WISHLIST
+
+Implement a functional wishlist using localStorage.
+
+Allow users to:
+
+* Add/remove products
+* View wishlist
+* Move products to cart
+
+---
+
+# FOOTER
+
+Include:
+
+Shop
+
+Dogs
+Cats
+Grooming
+Walking
+Travel
+Toys
+Beds
+
+Customer Care
+
+Contact
+Shipping
+Returns
+FAQ
+
+About
+
+Our Story
+Contact
+
+Social icons
+
+Newsletter:
+
+**More good days together.**
+
+Email field + Subscribe button.
+
+---
+
+# TECHNICAL REQUIREMENTS
+
+Use:
+
+* React
+* TypeScript
+* Tailwind CSS
+* Component-based architecture
+* Local mock product data
+* Local state
+* localStorage
+
+Create reusable components:
+
+* Navbar
+* MobileMenu
+* Hero
+* CategoryCard
+* ProductCard
+* ProductGrid
+* ProductGallery
+* PetQuiz
+* CartDrawer
+* CartItem
+* Wishlist
+* SearchOverlay
+* Checkout
+* PaymentSelector
+* ReviewCard
+* Footer
+* Toast
+* Modal
+
+Keep the implementation clean and maintainable.
+
+---
+
+# MOBILE EXPERIENCE
+
+Design mobile intentionally.
+
+Ensure:
+
+* Compact navigation
+* 2-column product grid
+* Large product imagery
+* Sticky Add to Cart on product pages
+* Touch-friendly controls
+* Comfortable spacing
+* No horizontal overflow
+* Fast-feeling interactions
+
+---
+
+# FINAL DESIGN STANDARD
+
+The final result must look like a **real premium Indian pet-care D2C brand**, not a generic AI-generated e-commerce template.
+
+The first 5 seconds should clearly communicate:
+
+**What is PAWLI? → Why should I trust it? → What should I buy?**
+
+Prioritize:
+
+**Emotion → Product → Trust → Discovery → Add to Cart → Checkout**
+
+Keep the experience minimal and conversion-focused.
+
+Do not add:
+
+* Blog
+* SEO sections
+* Dashboard
+* Complex backend
+* Unnecessary pages
+* Fake statistics
+* Excessive animations
+
+The final website should be polished enough to present directly as a **Kaeon Studios e-commerce portfolio project**.
