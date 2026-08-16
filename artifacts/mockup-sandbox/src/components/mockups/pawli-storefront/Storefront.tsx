@@ -9,7 +9,7 @@ type Product = {
   rating: number; reviews: number; image: string; category: string; pet: string;
 };
 
-const image = (name: string) => `/__mockup/images/${name}`;
+const image = (name: string) => `/images/${name}`;
 const products: Product[] = [
   { id:"bed", name:"PAWLI Cloud Bed", descriptor:"A soft landing for slow mornings.", price:2499, compare:2999, rating:4.9, reviews:214, image:image("pawli-cloud-bed.jpg"), category:"Sleep", pet:"Dog" },
   { id:"harness", name:"Everyday Walk Harness", descriptor:"Light, secure, ready for the long way home.", price:1299, compare:1599, rating:4.8, reviews:186, image:image("pawli-walk.jpg"), category:"Walk", pet:"Dog" },
