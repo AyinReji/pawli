@@ -131,16 +131,15 @@ function getPreviewPath(): string | null {
 function App() {
   const previewPath = getPreviewPath();
 
-  if (previewPath) {
-    return (
-      <PreviewRenderer
-        componentPath={previewPath}
-        modules={discoveredModules}
-      />
-    );
-  }
+  // Default to the storefront on the root path
+  const componentToRender = previewPath || "pawli-storefront/Storefront";
 
-  return <Gallery />;
+  return (
+    <PreviewRenderer
+      componentPath={componentToRender}
+      modules={discoveredModules}
+    />
+  );
 }
 
 export default App;
